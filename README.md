@@ -43,6 +43,7 @@ X-LLM-Key: sk-본인키
 ## 폴더 구조
 
 backend/
+
 ├── main.py
 
 ├── requirements.txt
