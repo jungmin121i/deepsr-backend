@@ -20,8 +20,11 @@ http://127.0.0.1:8000/docs
 ## API 목록
 
 GET /api/v1/market/ohlcv
+
 POST /api/v1/query
+
 POST /api/v1/analysis/indicators
+
 POST /api/v1/analysis/insights
 
 ---
