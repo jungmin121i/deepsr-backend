@@ -44,13 +44,21 @@ X-LLM-Key: sk-본인키
 
 backend/
 ├── main.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── api/
+
 │   ├── market.py
+
 │   ├── query.py
+
 │   ├── websocket.py
+
 │   └── analysis.py
+
 └── test_ws.html
 
 ---
